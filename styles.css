@@ -2,6 +2,11 @@
 :root{
 	background-color:rgb(135, 206, 235);
 }
+ ul {
+            list-style-type: none;
+            padding: 0;
+     }
+
 P:first-child{
 	background-color:black;
 	color:white;
